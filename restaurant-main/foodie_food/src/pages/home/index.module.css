@@ -1,0 +1,76 @@
+.body{
+    margin-top: 64px;
+    margin-left: 354px;
+    background-color: rgb(19, 19, 19);
+    width: 1117px;
+    padding: 17px;
+}
+.hero_banner{
+    width: 1115px;
+    height: 360px;
+    overflow: hidden;
+    border-radius: 13px;
+    border: none;
+}
+.banner{
+    width: 70rem;
+    height: 365px;
+}
+h4{
+    color: white;
+    font-size: 22px;
+    margin-left: 15px;
+    margin-bottom: 10px;
+}
+.menuContainer{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 1115px;
+    column-gap: 10px;
+}
+.menuItem{
+    width: 249px;
+    overflow: hidden;
+    padding: 11px
+}
+.menuItemImg{
+    width: 266px;
+    height: 200px;
+}
+.name_price_add{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.name{
+    margin: 0px;
+    color: white;
+    font-size: 17px;
+    font-weight: 600;
+}
+p{
+    color: white;
+}
+.add{
+    margin-top: 20px;
+    background-color: #3d3d3d;
+    margin-bottom: 28px;
+    border: none;
+    border-radius: 5px;
+    font-size: 19px;
+    width: 25px;
+    color: #8c8a8a;
+    cursor: pointer;
+}
+.add:hover{
+    background-color: #6a6969;
+}
+.imageConatiner{
+    height: 194px;
+    width: 250px;
+    overflow: hidden;
+    border: hidden;
+    border-radius: 10px;
+    cursor: pointer;
+}

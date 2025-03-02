@@ -1,0 +1,113 @@
+.sideLogo{
+    width: 58px;
+    margin-right: 10px;
+}
+header{
+    width: 1166px;
+    position: fixed;
+    top: 0px;
+    right: 0px;
+}
+.navBar{
+    background-color: #191D20;
+    display: flex;
+    width: 1158px;
+    padding-top: 6px;
+    justify-content: space-between;
+    padding-left: 8px;
+}
+.searchBar{
+    background-color: #272A30;
+    color: #878787;
+    width: 684px;
+    height: 43px;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    padding-left: 24px;
+    margin-left: 20px;
+    margin-top: 3px;
+    font-size: 17px;
+}
+.signup{
+    background-color: #FF2424;
+    width: 146px;
+    height: 33px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    margin-top: 3px;
+    text-decoration: none;
+    text-align: center;
+    align-items: center;
+    padding-top: 13px;
+}
+.login{
+    background-color: #FF2424;
+    width: 146px;
+    height: 33px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    margin-top: 3px;
+    text-decoration: none;
+    text-align: center;
+    align-items: center;
+    padding-top: 13px;
+}
+
+.sidebar{
+    background-color: #0C0E10;
+    width: 362px;
+    height: 1117px;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
+.links{
+    margin-top: 19px;
+    margin-bottom: 19px;
+}
+.mainLogo{
+    width: 298px;
+    margin-left: 32px;
+    margin-top: 17px;
+}
+.slogun{
+    text-align: center;
+    font-size: 14px;
+    color: #ff2c2c;
+    font-weight: lighter;
+    margin: 0px;
+    margin-bottom: 17px;
+}
+h5{
+    font-size: 17px;
+    font-weight: 600;
+    color: white;
+    text-align: center;
+    margin: 0px;
+}
+ol{
+    font-size: 16px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    height: 103px;
+}
+.listItem{
+    color: white;
+    text-decoration: none;
+    padding-left: 10px;
+}
+.aboutUs{
+    margin-top: 19px;
+    margin-bottom: 19px;
+}
+hr{
+    background-color: #272A30;
+    height: 1px;
+    border: none;
+}
